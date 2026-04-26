@@ -62,8 +62,8 @@
   --popover-foreground: oklch(0.18 0.04 260);
 
   /* Bleu électrique */
-  --primary: oklch(0.58 0.22 258);
-  --primary-foreground: oklch(0.99 0.005 250);
+  --primary:oklch(0.9012 0.156591 188.2171);
+  --primary-foreground: oklch(14.319% 0.025 239.495);
   --primary-glow: oklch(0.72 0.18 240);
 
   --secondary: oklch(0.96 0.015 250);
