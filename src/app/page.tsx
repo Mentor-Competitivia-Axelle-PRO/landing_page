@@ -1,6 +1,8 @@
 import { Navbar } from "@/components/header";
 import { Hero } from "@/components/hero";
-import Image from "next/image";
+import { Pricing } from "@/components/pricing";
+import { Problem } from "@/components/problem";
+import { Solution } from "@/components/solution";
 
 export default function Home() {
   return (
@@ -9,6 +11,9 @@ export default function Home() {
         <Navbar />
         <Hero/>
       </div>
+      <Problem />
+      <Solution />
+      <Pricing />
 
     </main>
   );
