@@ -74,7 +74,7 @@ export function Hero() {
             <div className="relative mx-auto">
               <div className="absolute inset-0 -z-10 rounded-full bg-gradient-to-br from-primary/30 to-primary-glow/20 blur-2xl" />
               <Image
-                src={"/hero-isidore.png"}
+                src={"https://github.com/Mentor-Competitivia-Axelle-PRO/landing_page/blob/main/public/hero-isidore.png?raw=true"}
                 alt="Coach AI Isidore"
                 width={320}
                 height={320}

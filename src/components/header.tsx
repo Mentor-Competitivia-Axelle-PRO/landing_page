@@ -7,7 +7,7 @@ export function Navbar() {
       <Link href="/" className="flex items-center gap-2 pl-2">
         <span className="grid relative h-8 w-8 place-items-center rounded-lg  text-primary-foreground font-bold">
           <Image
-            src={"/logo.png"}
+            src={"https://github.com/Mentor-Competitivia-Axelle-PRO/landing_page/blob/main/public/logo.png?raw=true"}
             alt="Isidore logo"
            fill
             className=" object-contain"
