@@ -19,6 +19,7 @@ export default function Home() {
       <Problem />
       <Solution />
       <Pricing />
+      
       <Activation />
       <Testimonials />
       <Difference/>
