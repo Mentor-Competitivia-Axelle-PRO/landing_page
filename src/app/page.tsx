@@ -24,8 +24,6 @@ export default function Home() {
       <Difference/>
       <FinalCTA/>
       <Footer/> 
-
-
     </main>
   );
 }
